@@ -1,91 +1,106 @@
 {
-  "language": "Polski",
-  "nav": {
-    "home": "Home",
-    "technologies": "Technologie",
-    "examples": "Przykłady",
-    "contact": "Kontakt"
-  },
-  "header": {
-    "title": "Różne Technologie Webowe",
-    "wordsArray": [
-      "Witaj na stronie! :)",
-      "Znajdziesz tu informacje na temat różnych technologii webowych."
-    ]
-  },
-  "technologies": {
-    "header": "Technologie",
-    "post": "What are my skills and\u00A0which technologies I\u00A0use",
-    "other": "OTHER"
- },
-  "examples": {
-    "title": "Przykłady",
-    "post": "Przykładowe projekty z użyciem technologii webowych",
-    "project": {
-      "preview": "Podgląd",
-      "noLiveLink": "Jeszcze nie w produkcji :(",
-      "noGithubLink": "Repozytorium prywatne",
-      "install": "Pobierz"
-    },
-    "projectW": {
-      "title": "Projekt W",
-      "description": "Strona - Portfolio\u00A0firmy."
-    },
-    "pizzaBuilder": {
-      "description": "Aplikacja - Tworzenie i\u00A0zamawianie\u00A0pizzy."
-    },
-    "yourTurn": {
-      "description": "Aplikacja - Podział obowiązków\u00A0domowych."
-    },
-    "mySite": {
-      "description": "Strona - Portfolio\u00A0własne."
-    },
-    "fotobudka": {
-      "description": "Strona - Wizytówka\u00A0firmy."
-    },
-    "bregula": {
-      "description": "Strona - Wizytówka\u00A0firmy."
-    },
-    "button": {
-      "description": "Strona - Wizytówka\u00A0firmy."
-    },
-    "dailyTasks": {
-      "description": "Android\u00A0/\u00A0iOS\u00A0app - Zarządzanie\u00A0zadaniami."
-    },
-    "canvas1": {
-      "description": "Interaktywna\u00A0animacja (HTML5\u00A0Canvas)."
-    },
-    "swpiu": {
-      "description": "System do znajdowania produktów i usług."
-    },
-    "calculator": {
-      "description": "Prosty kalkulator internetowy."
-    },
-    "mot": {
-      "description": "Gra do poprawienia twoich umiejętności MOT."
-    },
-    "annsr": {
-      "description": "Sztuczna sieć neuronowa do rozpoznawania symboli."
-    }
-  },
-  "contact": {
-    "title": "Przykładowy Formularz Kontaktu",
-    "post": "Przykładowy formularz kontaktowy stworzony za pomocą technologii React.",
-    "sent": "Twoja wiadomość została wysłana!",
-    "incorrect": "Dane w formularzu E-Mail są\u00A0niepoprawne!",
-    "emailPH": "przyklad@gmail.com",
-    "emailError": "Proszę podać właściwy e-mail.",
-    "name": "Imię",
-    "namePH": "Twoje Imię",
-    "subject": "Temat",
-    "subjectPH": "Temat e-mail'a",
-    "subjectError": "Temat powinien mieć co najmniej 2 znaki. (max 30)",
-    "message": "Wiadomość",
-    "messageError": "Twoja wiadomość powinna mieć co najmniej 5 znaków. (max 5000)",
-    "send": "Wyślij"
-  },
-  "footer": {
-    "info": "Mam nadzieję, że strona Ci się podoba :)",
-    "allRights": "Wszelkie prawa zastrzeżone."
-  }
+   "title": "Różne Technologie Webowe",
+   "language": "Polski",
+   "nav": {
+      "home": "Home",
+      "technologies": "Technologie",
+      "examples": "Przykłady",
+      "contact": "Kontakt"
+   },
+   "header": {
+      "title": "Różne Technologie Webowe",
+      "wordsArray": [
+         "Witaj na stronie! :)",
+         "Znajdziesz tu informacje na temat różnych technologii webowych."
+      ]
+   },
+   "technologies": {
+      "header": "Technologie",
+      "post": "Poniżej opisane są różne technologie webowe",
+      "js": "JavaScript® (często skracany do JS) jest lekkim, interpretowanym językiem zorientowanym obiektowo z pierwszorzędnymi funkcjami i jest najlepiej znany jako język skryptowy dla stron internetowych, ale jest również używany w wielu środowiskach innych niż przeglądarki. Jest to oparty na prototypach, wieloparadygmatyczny język skryptowy, który jest dynamiczny i obsługuje zorientowane obiektowo, imperatywne i funkcjonalne style programowania. JavaScript działa po stronie klienta w sieci, co może być użyte do zaprojektowania / zaprogramowania zachowania stron internetowych po wystąpieniu zdarzenia. JavaScript to łatwy do nauczenia, a także potężny język skryptowy, szeroko stosowany do kontrolowania zachowania strony internetowej. Wbrew powszechnemu przekonaniu, JavaScript nie jest „interpretowaną Javą”. Krótko mówiąc, JavaScript to dynamiczny język skryptowy wspierający budowanie obiektów w oparciu o prototypy. Podstawowa składnia jest celowo podobna do języka Java i C ++, aby zmniejszyć liczbę nowych koncepcji wymaganych do nauki języka. Konstrukcje językowe, takie jak instrukcje if, pętle for i while oraz bloki switch i try ... catch działają tak samo jak w tych językach (lub prawie tak). JavaScript może funkcjonować zarówno jako język proceduralny, jak i obiektowy. Obiekty są tworzone programowo w JavaScript, dołączając metody i właściwości do pustych obiektów w czasie wykonywania, w przeciwieństwie do definicji klas składniowych powszechnych w językach kompilowanych, takich jak C ++ i Java. Po skonstruowaniu obiektu można go użyć jako planu (lub prototypu) do tworzenia podobnych obiektów.",
+      "html5": "HTML5 to najnowsza ewolucja standardu definiującego HTML. Termin reprezentuje dwa różne pojęcia. Jest to nowa wersja języka HTML z nowymi elementami, atrybutami i zachowaniami oraz szerszym zestawem technologii, które umożliwiają tworzenie bardziej zróżnicowanych i wydajnych witryn i aplikacji sieci Web. Ten zestaw jest czasami nazywany HTML5 i przyjaciele i często skracany do samego HTML5. Zaprojektowana z myślą o wszystkich programistach Open Web, ta strona referencyjna zawiera linki do wielu zasobów dotyczących technologii HTML5, podzielonych na kilka grup w zależności od ich funkcji. Semantyka: umożliwiająca dokładniejsze opisanie treści. Łączność: umożliwiająca komunikację z serwerem w nowy i innowacyjny sposób. Offline i przechowywanie: umożliwienie stronom internetowym lokalnego przechowywania danych po stronie klienta i wydajniejszego działania w trybie offline. Multimedia: uczynienie wideo i audio pierwszorzędnymi obywatelami w otwartej sieci. Grafika i efekty 2D / 3D: pozwalają na znacznie bardziej zróżnicowany zakres opcji prezentacji. Wydajność i integracja: zapewnia większą optymalizację prędkości i lepsze wykorzystanie sprzętu komputerowego. Dostęp do urządzenia: umożliwia korzystanie z różnych urządzeń wejściowych i wyjściowych. Stylizacja: umożliwienie autorom pisania bardziej wyrafinowanych tematów.",
+      "css3": "Kaskadowe arkusze stylów (CSS) to język arkuszy stylów używany do opisu prezentacji dokumentu napisanego w formacie HTML lub XML (w tym dialektów XML, takich jak SVG, MathML lub XHTML). CSS opisuje, jak elementy powinny być renderowane na ekranie, na papierze, w mowie lub na innych mediach. CSS jest jednym z podstawowych języków otwartej sieci i jest ujednolicony dla wszystkich przeglądarek internetowych zgodnie ze specyfikacjami W3C. Wcześniej rozwój różnych części specyfikacji CSS odbywał się synchronicznie, co pozwalało na wersjonowanie najnowszych rekomendacji. Być może słyszałeś o CSS1, CSS2.1, CSS3. Jednak CSS4 nigdy nie stał się oficjalną wersją. Od CSS3 zakres specyfikacji znacznie się zwiększył, a postępy w zakresie różnych modułów CSS zaczęły się tak bardzo różnić, że efektywniejsze stało się opracowywanie i wydawanie zaleceń oddzielnie dla każdego modułu. Zamiast wersjonować specyfikację CSS, W3C teraz okresowo wykonuje migawkę ostatniego stabilnego stanu specyfikacji CSS.",
+      "react": "React sprawia, że tworzenie interaktywnych interfejsów użytkownika jest bezbolesne. Zaprojektuj proste widoki dla każdego stanu w aplikacji, a React sprawnie zaktualizuje i wyrenderuje właściwe komponenty, gdy zmienią się dane. Widoki deklaratywne sprawiają, że kod jest bardziej przewidywalny i łatwiejszy do debugowania. Twórz hermetyzowane komponenty, które zarządzają własnym stanem, a następnie twórz z nich złożone interfejsy użytkownika. Ponieważ logika komponentów jest napisana w JavaScript zamiast w szablonach, możesz łatwo przekazywać bogate dane przez swoją aplikację i utrzymywać stan z dala od modelu DOM. Nie robimy z góry założeń co do reszty Twojego stosu technologicznego, więc możesz opracowywać nowe funkcje w React bez przepisywania istniejącego kodu. React może również renderować na serwerze za pomocą Node i zasilać aplikacje mobilne za pomocą React Native.",
+      "vue": "Vue.js (wymawiane / vjuː /, podobnie jak widok) to biblioteka do tworzenia interaktywnych interfejsów internetowych. Celem Vue.js jest zapewnienie korzyści z reaktywnego wiązania danych i komponowalnych składników widoku z tak prostym interfejsem API, jak to tylko możliwe. Sam Vue.js nie jest pełnoprawnym frameworkiem - skupia się tylko na warstwie widoku. Dlatego bardzo łatwo jest go pobrać i zintegrować z innymi bibliotekami lub istniejącymi projektami. Z drugiej strony, w połączeniu z odpowiednimi narzędziami i bibliotekami pomocniczymi, Vue.js doskonale nadaje się do obsługi zaawansowanych aplikacji jednostronicowych.",
+      "angular": "Angular to platforma i struktura do tworzenia jednostronicowych aplikacji klienckich przy użyciu HTML i TypeScript. Angular jest napisany w języku TypeScript. Implementuje podstawowe i opcjonalne funkcje jako zestaw bibliotek TypeScript, które importujesz do swoich aplikacji. Architektura aplikacji Angular opiera się na pewnych podstawowych pojęciach. Podstawowymi elementami składowymi frameworka Angular są komponenty Angular, które są zorganizowane w NgModules. NgModules zbierają powiązany kod w zestawy funkcjonalne; aplikacja Angular jest definiowana przez zestaw NgModules. Aplikacja zawsze ma co najmniej moduł główny, który umożliwia ładowanie początkowe, i zazwyczaj ma o wiele więcej modułów funkcji. Komponenty definiują widoki, które są zestawami elementów ekranu, które Angular może wybierać i modyfikować zgodnie z logiką programu i danymi. Komponenty korzystają z usług, które zapewniają określone funkcje niezwiązane bezpośrednio z widokami. Dostawcy usług mogą być wstrzykiwani do komponentów jako zależności, dzięki czemu kod jest modułowy, wielokrotnego użytku i wydajny.",
+      "sass": "SASS (Syntactically Awesome Stylesheet) to preprocesor CSS, który pomaga zmniejszyć liczbę powtórzeń w CSS i oszczędza czas. Jest to stabilniejszy i potężniejszy język rozszerzeń CSS, który w przejrzysty i strukturalny sposób opisuje styl dokumentu. Został pierwotnie zaprojektowany przez Hamptona Catlina i opracowany przez Natalie Weizenbaum w 2006 roku. Później Weizenbaum i Chris Eppstein wykorzystali jego pierwotną wersję do rozszerzenia Sassa o SassScript. Jest to język przetwarzania wstępnego, który zapewnia wciętą składnię (własną składnię) dla CSS. Zapewnia pewne funkcje, które są używane do tworzenia arkuszy stylów, które umożliwiają wydajniejsze pisanie kodu i są łatwe w utrzymaniu. t to super zestaw CSS, co oznacza, że zawiera wszystkie funkcje CSS i jest preprocesorem open source, zakodowanym w Rubim. Zapewnia styl dokumentu w dobrym, ustrukturyzowanym formacie niż płaski CSS. Używa metod wielokrotnego użytku, instrukcji logicznych i niektórych wbudowanych funkcji, takich jak manipulacja kolorami, matematyka i listy parametrów.",
+      "gatsby": "GatsbyJS to oparty na React, generator witryn statycznych oparty na GraphQL. Co to w ogóle znaczy? Cóż, łączy najlepsze części Reacta, webpacka, react-routera, GraphQL i innych narzędzi front-endowych w jedno bardzo przyjemne doświadczenie programistyczne. Nie rozłączaj się z pseudonimem „generator witryn statycznych”. Termin ten istnieje już od jakiegoś czasu, ale Gatsby bardziej przypomina nowoczesną platformę front-end niż stary generator statycznych witryn. Wykorzystuje potężną konfigurację wstępną do zbudowania witryny internetowej, która używa tylko plików statycznych do niewiarygodnie szybkiego ładowania strony, pracowników usług, dzielenia kodu, renderowania po stronie serwera, inteligentnego ładowania obrazu, optymalizacji zasobów i wstępnego pobierania danych. Wszystko po wyjęciu z pudełka. Nie wierzyłem w szybkość, dopóki sam tego nie spróbowałem.",
+      "redux": "Redux to wzorzec i biblioteka do zarządzania i aktualizowania stanu aplikacji przy użyciu zdarzeń zwanych „akcjami”. Służy jako scentralizowany magazyn stanu, który musi być używany w całej aplikacji, z regułami zapewniającymi, że stan można aktualizować tylko w przewidywalny sposób. Wzorce i narzędzia dostarczane przez Redux ułatwiają zrozumienie, kiedy, gdzie, dlaczego i jak stan w aplikacji jest aktualizowany oraz jak zachowa się logika aplikacji, gdy wystąpią te zmiany. Redux prowadzi Cię do pisania kodu, który jest przewidywalny i testowalny, co daje Ci pewność, że Twoja aplikacja będzie działać zgodnie z oczekiwaniami.",
+      "nodejs": "Jako asynchroniczne, sterowane zdarzeniami środowisko wykonawcze JavaScript, Node.js jest przeznaczone do tworzenia skalowalnych aplikacji sieciowych. W poniższym przykładzie „witaj świecie” wiele połączeń może być obsługiwanych jednocześnie. Po każdym połączeniu wywoływane jest wywołanie zwrotne, ale jeśli nie ma pracy do wykonania, Node.js będzie spać. Projekt Node.js jest podobny do systemów takich jak Ruby's Event Machine i Twisted w języku Python i podlega wpływom takich systemów. Node.js przenosi model zdarzeń nieco dalej. Przedstawia pętlę zdarzeń jako konstrukcję środowiska wykonawczego, a nie jako bibliotekę. W innych systemach zawsze występuje wywołanie blokujące, aby rozpocząć pętlę zdarzeń.",
+      "php": "PHP (rekursywny akronim dla PHP: Hypertext Preprocessor) jest szeroko stosowanym językiem skryptowym ogólnego przeznaczenia o otwartym kodzie źródłowym, który jest szczególnie odpowiedni do tworzenia stron internetowych i może być osadzony w HTML. To, co odróżnia PHP od czegoś takiego jak JavaScript po stronie klienta, to fakt, że kod jest wykonywany na serwerze, generując kod HTML, który jest następnie wysyłany do klienta. Klient otrzyma wyniki uruchomienia tego skryptu, ale nie będzie wiedział, jaki jest jego kod. Możesz nawet skonfigurować swój serwer WWW do przetwarzania wszystkich plików HTML za pomocą PHP, a wtedy naprawdę nie ma sposobu, aby użytkownicy mogli stwierdzić, co masz w rękawie.",
+      "springBoot": "Spring Boot to platforma open source oparta na języku Java służąca do tworzenia mikroserwisów. Jest rozwijany przez Pivotal Team i służy do tworzenia samodzielnych i gotowych do produkcji aplikacji sprężynowych. W tym rozdziale znajdziesz wprowadzenie do Spring Boot i zapoznasz się z podstawowymi koncepcjami. Spring Boot stanowi dobrą platformę dla programistów Java do tworzenia samodzielnej i produkcyjnej aplikacji Spring, którą można po prostu uruchomić. Możesz rozpocząć od minimalnych konfiguracji bez konieczności przeprowadzania całej konfiguracji Spring.",
+      "symfony": "Symfony to platforma PHP typu Open Source dla aplikacji internetowych oraz zestaw komponentów PHP wielokrotnego użytku. Został stworzony w 2005 roku przez agencję interaktywną SensioLabs w celu tworzenia witryn internetowych dla własnych klientów. Tysiące witryn i aplikacji opiera się na Symfony jako na fundamencie swoich usług internetowych. Większość wiodących projektów PHP, takich jak Drupal i Laravel, wykorzystuje komponenty Symfony do tworzenia swoich aplikacji.",
+      "reactNative": "React Native (znany również jako RN) to popularna platforma aplikacji mobilnych oparta na języku JavaScript, która umożliwia tworzenie natywnie renderowanych aplikacji mobilnych na iOS i Androida. Struktura umożliwia tworzenie aplikacji dla różnych platform przy użyciu tej samej bazy kodu. React Native został po raz pierwszy wydany przez Facebooka jako projekt open source w 2015 roku. W ciągu zaledwie kilku lat stał się jednym z najlepszych rozwiązań wykorzystywanych do tworzenia aplikacji mobilnych. Programowanie React Native jest wykorzystywane do obsługi niektórych wiodących na świecie aplikacji mobilnych, takich jak Instagram, Facebook i Skype.",
+      "gql": "GraphQL to język zapytań dla interfejsów API i środowisko wykonawcze do wypełniania tych zapytań za pomocą istniejących danych. GraphQL zapewnia pełny i zrozumiały opis danych w Twoim API, daje klientom możliwość zadawania dokładnie tego, czego potrzebują i nic więcej, ułatwia ewolucję API w czasie i udostępnia zaawansowane narzędzia programistyczne. Wyślij zapytanie GraphQL do swojego API i uzyskaj dokładnie to, czego potrzebujesz, nic więcej i nic mniej. Zapytania GraphQL zawsze zwracają przewidywalne wyniki. Aplikacje korzystające z GraphQL są szybkie i stabilne, ponieważ kontrolują otrzymywane dane, a nie serwer. Zapytania GraphQL mają dostęp nie tylko do właściwości jednego zasobu, ale także płynnie podążają za referencjami między nimi. Podczas gdy typowe interfejsy API REST wymagają ładowania z wielu adresów URL, interfejsy API GraphQL pobierają wszystkie dane, których potrzebuje Twoja aplikacja, w jednym żądaniu. Aplikacje korzystające z GraphQL mogą być szybkie nawet przy wolnych połączeniach z siecią komórkową."
+   },
+   "examples": {
+      "title": "Przykłady",
+      "post": "Moje przykładowe projekty z użyciem technologii webowych",
+      "project": {
+         "preview": "Podgląd",
+         "noLiveLink": "Jeszcze nie w produkcji :(",
+         "noGithubLink": "Repozytorium prywatne",
+         "install": "Pobierz"
+      },
+      "projectW": {
+         "title": "Projekt W",
+         "description": "Strona - Portfolio\u00A0firmy."
+      },
+      "pizzaBuilder": {
+         "description": "Aplikacja - Tworzenie i\u00A0zamawianie\u00A0pizzy."
+      },
+      "yourTurn": {
+         "description": "Aplikacja - Podział obowiązków\u00A0domowych."
+      },
+      "mySite": {
+         "description": "Strona - Portfolio\u00A0własne."
+      },
+      "fotobudka": {
+         "description": "Strona - Wizytówka\u00A0firmy."
+      },
+      "bregula": {
+         "description": "Strona - Wizytówka\u00A0firmy."
+      },
+      "button": {
+         "description": "Strona - Wizytówka\u00A0firmy."
+      },
+      "dailyTasks": {
+         "description": "Android\u00A0/\u00A0iOS\u00A0app - Zarządzanie\u00A0zadaniami."
+      },
+      "canvas1": {
+         "description": "Interaktywna\u00A0animacja (HTML5\u00A0Canvas)."
+      },
+      "swpiu": {
+         "description": "System do znajdowania produktów i usług."
+      },
+      "calculator": {
+         "description": "Prosty kalkulator internetowy."
+      },
+      "mot": {
+         "description": "Gra do poprawienia twoich umiejętności MOT."
+      },
+      "annsr": {
+         "description": "Sztuczna sieć neuronowa do rozpoznawania symboli."
+      }
+   },
+   "contact": {
+      "title": "Przykładowy Formularz Kontaktu",
+      "post": "Przykładowy formularz kontaktowy stworzony za pomocą technologii React.",
+      "sent": "Twoja wiadomość została wysłana!",
+      "incorrect": "Dane w formularzu E-Mail są\u00A0niepoprawne!",
+      "emailPH": "przyklad@gmail.com",
+      "emailError": "Proszę podać właściwy e-mail.",
+      "name": "Imię",
+      "namePH": "Twoje Imię",
+      "subject": "Temat",
+      "subjectPH": "Temat e-mail'a",
+      "subjectError": "Temat powinien mieć co najmniej 2 znaki. (max 30)",
+      "message": "Wiadomość",
+      "messageError": "Twoja wiadomość powinna mieć co najmniej 5 znaków. (max 5000)",
+      "send": "Wyślij"
+   },
+   "footer": {
+      "info": "Mam nadzieję, że strona Ci się podoba! :)",
+      "allRights": "Wszelkie prawa zastrzeżone."
+   }
 }

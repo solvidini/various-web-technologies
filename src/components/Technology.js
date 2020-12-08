@@ -16,6 +16,7 @@ const Technology = (props) => {
         />
         <div className="technologies__item-label">{props.name}</div>
       </div>
+      <div className="technologies__item-description">{props.description}</div>
     </Effect>
   );
 };
