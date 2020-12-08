@@ -1,0 +1,91 @@
+{
+  "language": "Polski",
+  "nav": {
+    "home": "Home",
+    "technologies": "Technologie",
+    "examples": "Przykłady",
+    "contact": "Kontakt"
+  },
+  "header": {
+    "title": "Różne Technologie Webowe",
+    "wordsArray": [
+      "Witaj na stronie! :)",
+      "Znajdziesz tu informacje na temat różnych technologii webowych."
+    ]
+  },
+  "technologies": {
+    "header": "Technologie",
+    "post": "What are my skills and\u00A0which technologies I\u00A0use",
+    "other": "OTHER"
+ },
+  "examples": {
+    "title": "Przykłady",
+    "post": "Przykładowe projekty z użyciem technologii webowych",
+    "project": {
+      "preview": "Podgląd",
+      "noLiveLink": "Jeszcze nie w produkcji :(",
+      "noGithubLink": "Repozytorium prywatne",
+      "install": "Pobierz"
+    },
+    "projectW": {
+      "title": "Projekt W",
+      "description": "Strona - Portfolio\u00A0firmy."
+    },
+    "pizzaBuilder": {
+      "description": "Aplikacja - Tworzenie i\u00A0zamawianie\u00A0pizzy."
+    },
+    "yourTurn": {
+      "description": "Aplikacja - Podział obowiązków\u00A0domowych."
+    },
+    "mySite": {
+      "description": "Strona - Portfolio\u00A0własne."
+    },
+    "fotobudka": {
+      "description": "Strona - Wizytówka\u00A0firmy."
+    },
+    "bregula": {
+      "description": "Strona - Wizytówka\u00A0firmy."
+    },
+    "button": {
+      "description": "Strona - Wizytówka\u00A0firmy."
+    },
+    "dailyTasks": {
+      "description": "Android\u00A0/\u00A0iOS\u00A0app - Zarządzanie\u00A0zadaniami."
+    },
+    "canvas1": {
+      "description": "Interaktywna\u00A0animacja (HTML5\u00A0Canvas)."
+    },
+    "swpiu": {
+      "description": "System do znajdowania produktów i usług."
+    },
+    "calculator": {
+      "description": "Prosty kalkulator internetowy."
+    },
+    "mot": {
+      "description": "Gra do poprawienia twoich umiejętności MOT."
+    },
+    "annsr": {
+      "description": "Sztuczna sieć neuronowa do rozpoznawania symboli."
+    }
+  },
+  "contact": {
+    "title": "Przykładowy Formularz Kontaktu",
+    "post": "Przykładowy formularz kontaktowy stworzony za pomocą technologii React.",
+    "sent": "Twoja wiadomość została wysłana!",
+    "incorrect": "Dane w formularzu E-Mail są\u00A0niepoprawne!",
+    "emailPH": "przyklad@gmail.com",
+    "emailError": "Proszę podać właściwy e-mail.",
+    "name": "Imię",
+    "namePH": "Twoje Imię",
+    "subject": "Temat",
+    "subjectPH": "Temat e-mail'a",
+    "subjectError": "Temat powinien mieć co najmniej 2 znaki. (max 30)",
+    "message": "Wiadomość",
+    "messageError": "Twoja wiadomość powinna mieć co najmniej 5 znaków. (max 5000)",
+    "send": "Wyślij"
+  },
+  "footer": {
+    "info": "Mam nadzieję, że strona Ci się podoba :)",
+    "allRights": "Wszelkie prawa zastrzeżone."
+  }
+}

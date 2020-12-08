@@ -1,0 +1,91 @@
+{
+   "language": "English",
+   "nav": {
+      "home": "Home",
+      "technologies": "Technologies",
+      "examples": "Examples",
+      "contact": "Contact"
+   },
+   "header": {
+      "title": "Various Web Technologies",
+      "wordsArray": [
+         "Welcome to the page! :)",
+         "You will find here information about various web technologies."
+      ]
+   },
+   "technologies": {
+      "header": "Technologies",
+      "post": "What are my skills and\u00A0which technologies I\u00A0use",
+      "other": "OTHER"
+   },
+   "examples": {
+      "title": "Examples",
+      "post": "Sample projects made in web technologies",
+      "project": {
+         "preview": "Preview",
+         "noLiveLink": "Not yet in production :(",
+         "noGithubLink": "Repository private",
+         "install": "Download"
+      },
+      "projectW": {
+         "title": "Projekt W",
+         "description": "Website - Company's portfolio."
+      },
+      "pizzaBuilder": {
+         "description": "Application - Creating and\u00A0ordering\u00A0pizza."
+      },
+      "yourTurn": {
+         "description": "Application - The\u00A0division of\u00A0household\u00A0duties."
+      },
+      "mySite": {
+         "description": "Website - Own portfolio."
+      },
+      "fotobudka": {
+         "description": "Website - Company card."
+      },
+      "bregula": {
+         "description": "Website - Company card."
+      },
+      "button": {
+         "description": "Website - Company card."
+      },
+      "dailyTasks": {
+         "description": "Android\u00A0/\u00A0iOS\u00A0app - Task\u00A0management."
+      },
+      "canvas1": {
+         "description": "Interactive\u00A0animation (HTML5\u00A0Canvas)."
+      },
+      "swpiu": {
+         "description": "System for finding products and services."
+      },
+      "calculator": {
+         "description": "Simple web calculator."
+      },
+      "mot": {
+         "description": "Game to improve your MOT skills."
+      },
+      "annsr": {
+         "description": "Artificial neural network symbol recognition."
+      }
+   },
+   "contact": {
+      "title": "Sample Contact Form",
+      "post": "Sample contact form made in React technology.",
+      "sent": "Your message was sent!",
+      "incorrect": "Data in E-Mail form is\u00A0not\u00A0correct!",
+      "emailPH": "example@gmail.com",
+      "emailError": "Please enter a valid e-mail.",
+      "name": "Name",
+      "namePH": "Your Name",
+      "subject": "Subject",
+      "subjectPH": "Subject of an e-mail",
+      "subjectError": "Subject must be at least 2 characters. (max 30)",
+      "message": "Message",
+      "messageError": "Your message must be at least 5 characters. (max 5000)",
+      "send": "Send"
+   },
+   "footer": {
+      "info": "I hope you enjoy the website! :)",
+      "allRights": "All rights reserved."
+   }
+}

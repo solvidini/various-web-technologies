@@ -1,0 +1,65 @@
+@import '../mixins';
+@import '../variables';
+
+.form-control {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 0 2%;
+
+    @include respond(phone) {
+        padding: 0;
+    }
+
+    &__label {
+        font-size: 1.7rem;
+        margin-bottom: 4px;
+        color: $color-white;
+    }
+
+    &__error {
+        margin-top: .5rem;
+        text-align: center;
+        font-size: 1.6rem;
+        color: $color-failure;
+    }
+}
+
+.input {
+    font-family: 'lato', sans-serif;
+    width: 100%;
+    padding: .75rem .5rem;
+    font-size: 16px;
+    background-color: $color-white;
+    outline: none;
+
+    -webkit-appearance: none;
+    -webkit-border-radius: 0;
+    border-radius: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border: 1px solid transparent;
+    border-radius: 2px;
+
+    &:focus {
+        border-color: $color-white;
+        box-shadow: 0 0 .5rem $color-white;
+    }
+
+    &--textarea {
+        font-family: 'lato', sans-serif;
+        resize: vertical;
+        min-height: 3.2rem;
+        max-height: 30rem;
+    }
+
+    &--valid {
+        border-color: $color-white;
+    }
+
+    &--invalid {
+        border-color: $color-failure;
+        background-color: #ffdfe6;
+        ;
+    }
+}
